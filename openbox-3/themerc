@@ -1,0 +1,113 @@
+# cd3y-monochrome.
+# dark. simple. flat. btw author use arch.
+
+# Copyright (c) cyberdonk3y 2020
+# License: GPLv3
+
+#   This program is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+
+#    You should have received a copy of the GNU General Public License
+#    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+# Menu
+
+menu.separator.color: #ffffff
+menu.separator.width: 0
+menu.separator.padding.width: 6
+menu.separator.padding.height: 4
+
+menu.border.color: #131315
+
+menu.title.bg: flat solid
+menu.title.bg.color: #1e1e20
+menu.title.text.color: #dcdcdc
+menu.title.text.justify: center
+
+menu.items.bg: flat solid
+menu.items.bg.color: #131315
+menu.items.text.color: #dcdcdc
+menu.items.disabled.text.color: #666666
+
+menu.items.active.bg: flat solid
+menu.items.active.bg.color: #2a2a2d
+menu.items.active.text.color: #fdfdfd
+
+# Inactive window
+window.inactive.border.color: #131315
+
+window.inactive.title.bg: flat solid
+window.inactive.title.bg.color: #131315
+window.inactive.title.separator.color: #131315
+window.inactive.text.justify: center
+
+window.inactive.label.bg: parentrelative
+window.inactive.label.text.color: #888888
+
+window.inactive.handle.bg: flat solid
+window.inactive.handle.bg.color: #131315
+
+window.inactive.grip.bg: flat solid
+window.inactive.grip.bg.color: #131315
+
+window.inactive.button.unpressed.bg: flat solid
+window.inactive.button.unpressed.bg.color: #131315
+window.inactive.button.unpressed.image.color: #888888
+
+window.inactive.button.pressed.bg: flat solid
+window.inactive.button.pressed.bg.color: #131315
+window.inactive.button.pressed.image.color: #888888
+
+window.inactive.button.disabled.bg: flat solid
+window.inactive.button.disabled.bg.color: #131315
+window.inactive.button.disabled.image.color: #888888
+
+window.inactive.button.hover.image.color: #ffffff
+
+# Active window
+window.active.border.color: #131315
+
+window.active.title.bg: flat solid
+window.active.title.bg.color: #131315
+window.active.title.separator.color: #131315
+window.active.text.justify: center
+
+window.active.label.bg: parentrelative
+window.active.label.text.color: #dcdcdc
+
+window.active.handle.bg: flat solid
+window.active.handle.bg.color: #131315
+
+window.active.grip.bg: flat solid
+window.active.grip.bg.color: #131315
+
+window.active.button.unpressed.bg: flat solid
+window.active.button.unpressed.bg.color: #131315
+window.active.button.unpressed.image.color: #dcdcdc
+
+window.active.button.pressed.bg: flat solid
+window.active.button.pressed.bg.color: #131315
+window.active.button.pressed.image.color: #c6c6d1
+
+window.active.button.disabled.bg: flat solid
+window.active.button.disabled.bg.color: #131315
+window.active.button.disabled.image.color: #888888
+
+window.active.button.hover.image.color: #a3a3cc
+
+
+# Window geometry
+border.width: 0
+border.color: #131315
+padding.width: 8
+padding.height: 5
+window.handle.width: 0
+window.client.padding.width: 0
+window.label.text.justify: center

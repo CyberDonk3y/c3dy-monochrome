@@ -1,4 +1,4 @@
-c3dy-monochrome - dark openbox theme.
+cd3y-monochrome - dark openbox theme.
 Copyright (c) cyberdonk3y 2020
 License: GPLv3
 

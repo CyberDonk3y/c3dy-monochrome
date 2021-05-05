@@ -1,4 +1,5 @@
 cd3y-monochrome - dark openbox theme.
+
 Copyright 2020-2021, cyberdonk3y
 
   >Copying and distribution of this project, with or without modification, 
